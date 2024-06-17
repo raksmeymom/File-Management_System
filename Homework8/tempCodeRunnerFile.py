@@ -1,0 +1,1 @@
+delete_files_all(Path.cwd(), 'Restau')
